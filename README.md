@@ -15,7 +15,6 @@ Fires by neighborhood: https://data.wprdc.org/dataset/fire-incidents-in-city-of-
 Find the number of fires per neighborhood.
 Rank each neighborhood from lowest to highest based on how many fires there are. 
 Also will take into account what kind of fire was caused. House fires causing more safety problems and small cooking fires being less.
-Divide by population
 
 
 Crime by neighborhood 
