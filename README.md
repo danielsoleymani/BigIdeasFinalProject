@@ -32,6 +32,7 @@ Data visualizations to include:
 
 People under Health Insurance by neighborhood
 https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/c9fd5859-ed34-4151-a13e-d7a25839f4d3 
+https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/82f29015-6905-4b1c-8300-afe9bb2231b3
 
 Rank each neighborhood based on the members that have any form of health insurance, taking into account the potential error reported on the members that may have health insurance. There will be a bar chart showing some of the top neighborhoods with a special chart also showing members of each age range and what type of insurance that they have. 
 
